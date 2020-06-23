@@ -18,7 +18,7 @@ export default class Index extends Component {
         },
         {
           image:"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=362237655,4253546665&fm=26&gp=0.jpg",
-          title:"笑话大全1",
+          title:"笑话大全",
           url:'/pages/joke/index'
         },
         {
